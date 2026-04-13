@@ -4,7 +4,8 @@
 
 - `pdftomd.py`: 將 PDF 轉成 Markdown
 - `rag_cath.py`: 建立嵌入、FAISS 向量索引、生成摘要、啟動問答系統
-
+## Prototype Demo Video Link
+<https://youtu.be/8pvjWL-Q6q0>
 
 ## 專案結構
 
